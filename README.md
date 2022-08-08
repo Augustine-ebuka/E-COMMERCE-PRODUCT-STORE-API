@@ -5,7 +5,7 @@
 Type of Request:
 GET 
 
-Products Document contain:
+Products Document contain the following fields:
 featured,
 *rating,
 createdAt,
