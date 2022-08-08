@@ -15,7 +15,7 @@ price,
 company*
 
 Functionalities that this API provides:
-1. Acess to products
+1. Access to all products
 2. Perform filtering such as sorting based on name, featured,company
 3. perform comparism such as, say you want to  get access to the products price > 300. /products?price>300.
 this will display and sort the document based on those that has price > 300.
